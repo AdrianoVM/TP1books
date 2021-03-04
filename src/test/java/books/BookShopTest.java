@@ -15,6 +15,7 @@ public class BookShopTest {
 
     @Test
     public void myFirstTest(){
+        System.out.println("Inside testPrintMessage()");
         assertTrue(false);
     }
 }

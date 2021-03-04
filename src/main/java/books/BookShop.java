@@ -19,6 +19,11 @@ public class BookShop {
      */
     public double cost(int[] books){
         //TODO complete
-        return 0.0;
+        float cost = 8;
+        return cost;
+    }
+
+    public static void main(String[] args) {
+
     }
 }
